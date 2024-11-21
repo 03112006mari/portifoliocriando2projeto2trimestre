@@ -16,7 +16,7 @@ color: var(--cor-destaque);
 font-weight:700;
 }
 a, .btn-link:hover{
-color: var(--cor-principal);
+color: var(--cor-principal)
 }
 
 a:hover{
