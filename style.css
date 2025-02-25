@@ -28,8 +28,3 @@ a, .btn-link:hover {
 a:hover{
     color: var(--cor-destaque);
 }
-body{
-    margin: 0;
-    padding: 0;
-    background: #3742fa;
-}
